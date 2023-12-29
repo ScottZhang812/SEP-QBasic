@@ -1,0 +1,7 @@
+style=linux             # 设置 Linux 风格
+indent-switches         # 设置 switch 整体缩进
+indent-namespaces       # 设置 namespace 整体缩进
+indent-preproc-block    # 设置预处理模块缩进
+pad-oper                # 操作符前后填充空格
+delete-empty-lines      # 删除多余空行
+add-braces
